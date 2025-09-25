@@ -5,6 +5,8 @@ description: 'These lecture notes cover the following topics: Leadership Traits,
 file: /courses/15-996-cross-cultural-leadership-fall-2004/998bbb2bb3a1493c3950bfc11e2a1643_lec5.pdf
 file_size: 145216
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

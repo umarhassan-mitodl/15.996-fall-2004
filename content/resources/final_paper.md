@@ -6,6 +6,8 @@ description: 'This resource contains the final paper assignment: on Compare/cont
 file: /courses/15-996-cross-cultural-leadership-fall-2004/53635f1a5088eb5c8aa957fce37a5846_final_paper.pdf
 file_size: 79031
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

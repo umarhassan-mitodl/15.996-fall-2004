@@ -5,6 +5,8 @@ description: Assignment for the 5th class of the semester. Includes reading assi
 file: /courses/15-996-cross-cultural-leadership-fall-2004/b0622568f5f2b311a525796eaa64b4a9_assign4.pdf
 file_size: 88143
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

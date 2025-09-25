@@ -6,6 +6,8 @@ description: 'These lecture notes cover the following topics: Universalism vs. P
 file: /courses/15-996-cross-cultural-leadership-fall-2004/7ca67139396e6820bd588e27f24e0738_lec2.pdf
 file_size: 146169
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

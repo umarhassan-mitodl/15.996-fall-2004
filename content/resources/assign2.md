@@ -5,6 +5,8 @@ description: Assignment for the 3rd class of the semester. Includes reading assi
 file: /courses/15-996-cross-cultural-leadership-fall-2004/6149dbafb8a500ed57ba8a391c05239b_assign2.pdf
 file_size: 100767
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

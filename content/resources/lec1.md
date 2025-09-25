@@ -8,6 +8,8 @@ description: 'These lecture notes cover the following topics: Set the baseline. 
 file: /courses/15-996-cross-cultural-leadership-fall-2004/a4b73b7b1a5c1fddbb6d77dca70c7847_lec1.pdf
 file_size: 143044
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

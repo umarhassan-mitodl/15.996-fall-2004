@@ -6,6 +6,8 @@ description: 'These lecture notes cover the following topics: Focus on Past, Pre
 file: /courses/15-996-cross-cultural-leadership-fall-2004/46152f06dc86cd48b23407e75b84acd2_lec4.pdf
 file_size: 133360
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
